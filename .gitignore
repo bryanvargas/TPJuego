@@ -1,6 +1,6 @@
 *.class
-
+/src/img/*
+/bin/*
 # Package Files #
-*.jar
 *.war
 *.ear
